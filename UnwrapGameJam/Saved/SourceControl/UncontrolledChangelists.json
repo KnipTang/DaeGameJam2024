@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/levels/level_BuiltData.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/levels/level.umap",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AttachPillar.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/_GENERATED/vikpr/Box_30280A8C.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
