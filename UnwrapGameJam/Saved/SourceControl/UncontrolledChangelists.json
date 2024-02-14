@@ -11,10 +11,12 @@
 				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/_GENERATED/vikpr/Box_30280A8C.uasset",
 				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_Player.uasset",
 				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IA_Attach.uasset",
-				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IMC.uasset",
 				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IMC_Player.uasset",
 				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_PlayerController.uasset",
-				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_MyGameMode.uasset"
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_MyGameMode.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/Physics/Sliding_Mat.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/Giri/sm_character.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IMC.uasset"
 			]
 		}
 	]
