@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/Map_HLOD0_Instancing.uasset",
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/__ExternalActors__/Map/5/PN/679A47FIAS5NIV6T6OABSZ.uasset",
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/__ExternalObjects__/Map/5/UQ/MAL0YGWBLY7JBKHB4O7CZ1.uasset",
@@ -149,6 +150,25 @@
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/__ExternalActors__/Map/9/GJ/DPCBS8GJ85EJ985B3RKBVL.uasset",
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/__ExternalActors__/Map/7/0W/9BCL3P0HXIQSF1A6P1U9XV.uasset",
 				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/Map.umap"
+=======
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_Player.uasset",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/levels/level.umap",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AOE_Material.uasset",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AOE_Material_Active.uasset",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/Circle.uasset",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AOE.uasset",
+				"C:/Users/ZwoeleMan/Desktop/Dae/SECOND YEAR OMG/Sem 1/Gameplay Programming/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AOE_PileInRange.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/levels/level_BuiltData.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/levels/level.umap",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_AttachPillar.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/_GENERATED/vikpr/Box_30280A8C.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_Player.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IA_Attach.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IMC.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/inputs/IMC_Player.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_PlayerController.uasset",
+				"C:/00 DAE/DaeGameJam2024/UnwrapGameJam/Content/blueprints/BP_MyGameMode.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
